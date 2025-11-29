@@ -5,3 +5,7 @@ python-dotenv
 groq
 PyPDF2
 plotly
+streamlit==1.51.0
+pandas
+numpy
+fpdf
