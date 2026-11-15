@@ -1,2 +1,29 @@
+# Sirlar
 .env
-.venv
+*.env
+!.env.example
+
+# Virtual muhit
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Generatsiya qilingan natijalar
+Output/
+Files/~$*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
