@@ -16,3 +16,6 @@ env/
 .vscode/
 # OS
 .DS_Store
+
+# Office lock files
+~$*
